@@ -1,14 +1,14 @@
-title: ES Conference Deadlines
-description: Countdowns to top ES conference deadlines
+title: COS Conference Deadlines
+description: Countdowns to top CPS conference deadlines
 author: Abhishek Das
 
 domain: "ekut-es.github.io"
-baseurl: "/es-deadlines"
+baseurl: "/cps-deadlines"
 
 twitter_username: 
 twitter_hashtag: embeddedsystems
 github_username: ekut-es
-github_repo: es-deadlines
+github_repo: cps-deadlines
 
 markdown: kramdown
 ga_id: 
