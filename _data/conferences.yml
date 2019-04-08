@@ -9,7 +9,7 @@
   timezone: Etc/GMT+2
   date: November 21-22, 2019
   place: Munich, Germany
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='https://www.tuev-sued.de/uploads/images/1549883812393523030668/tagung-automatisiertes-fahren-2019-call-for-papers.pdf'>PDF</a>.
 
 - title: LPIRC
@@ -20,7 +20,7 @@
   timezone: Etc/GMT+8
   date: June 17, 2019
   place: Long Beach, California, USA
-  sub: CV
+  sub: CPS
 
 - title: ICCVE
   year: 2019
@@ -30,7 +30,7 @@
   timezone: Etc/GMT
   date: November 4-8, 2019
   place: Graz, Austria
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='https://iccve2019.com/sites/default/files/documents/call-docs/iccve2019-cfp_v10.pdf'>PDF</a>.
 
 - title: CPS-IoT
@@ -41,7 +41,7 @@
   timezone: Etc/GMT
   date: April 15-18, 2019
   place: Montreal, Canada
-  sub: ES
+  sub: CPS
   note: null
 
 - title: CVPR
@@ -52,7 +52,7 @@
   timezone: America/Los_Angeles
   date: June 16-21, 2019
   place: Long Beach, USA
-  sub: CV
+  sub: CPS
 
 - title: IV
   year: 2019
@@ -62,7 +62,7 @@
   timezone: Etc/GMT
   date: June 9-12, 2019
   place: Paris, France
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='http://iv2019.org/call-for-paper/'>HTML</a>.
 
 - title: SeFuMal
@@ -73,7 +73,7 @@
   timezone: Etc/GMT-1
   date: Apr 30-May 2, 2019
   place: Alghero, Italy
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84155'>HTML</a>.
 
 - title: ICCV
@@ -84,7 +84,7 @@
   timezone: Etc/GMT
   date: October 27 - November 3, 2019
   place: Seoul, Korea
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='http://iccv2019.thecvf.com/submission/main_conference/author_guidelines'>HTML</a>.
 
 - title: ITSC
@@ -95,16 +95,5 @@
   timezone: Etc/GMT
   date: October 27-30, 2019
   place: Auckland, New Zealand
-  sub: CV
+  sub: CPS
   note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
-
-- title: ICCAD
-  year: 2019
-  id: iccad19
-  link: https://www.iccad.com/
-  deadline: '2019-04-01 23:59:00'
-  timezone: Etc/GMT
-  date: November 4-7, 2019
-  place: Westminster, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.

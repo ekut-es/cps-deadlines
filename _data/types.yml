@@ -1,7 +1,3 @@
 ---
-- name: Embedded Systems
-  sub: ES 
-- name: Computer Architecture
-  sub: CA
-- name: Computer Vision
-  sub: CV
+- name: Cyber Physical Systems
+  sub: CPS
